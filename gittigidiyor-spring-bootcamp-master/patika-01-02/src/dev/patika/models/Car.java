@@ -3,7 +3,7 @@ package dev.patika.models;
 import javax.persistence.Entity;
 
 @Entity
-public class Car extends Vehicle {
+public class Car extends Vehicle{
     private String color;
 
     public Car(int v_year, String v_model, String v_plate, String color) {
