@@ -1,7 +1,7 @@
-package dev.patika.hw2.service;
+package dev.patika.hw1.service;
 
-import dev.patika.hw2.dao.InstructorDAOImpl;
-import dev.patika.hw2.model.Instructor;
+import dev.patika.hw1.dao.InstructorDAOImpl;
+import dev.patika.hw1.model.Instructor;
 
 import java.util.List;
 

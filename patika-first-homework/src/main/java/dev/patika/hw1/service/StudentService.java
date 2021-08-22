@@ -1,8 +1,8 @@
-package dev.patika.hw2.service;
+package dev.patika.hw1.service;
 
 
-import dev.patika.hw2.dao.StudentDAOImpl;
-import dev.patika.hw2.model.Student;
+import dev.patika.hw1.dao.StudentDAOImpl;
+import dev.patika.hw1.model.Student;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

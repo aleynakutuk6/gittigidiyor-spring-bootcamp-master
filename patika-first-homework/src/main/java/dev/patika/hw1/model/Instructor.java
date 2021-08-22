@@ -1,4 +1,4 @@
-package dev.patika.hw2.model;
+package dev.patika.hw1.model;
 
 import javax.persistence.*;
 import java.util.ArrayList;

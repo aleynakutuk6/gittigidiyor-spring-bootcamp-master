@@ -6,19 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="patika-second-homework" />
+        <module name="patika-first-homework" />
         <module name="patika-02-01" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="patika-02-01" target="1.8" />
-      <module name="patika-second-homework" target="1.8" />
+      <module name="patika-first-homework" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="patika-02-01" options="-parameters" />
-      <module name="patika-second-homework" options="-parameters" />
+      <module name="patika-first-homework" options="-parameters" />
     </option>
   </component>
 </project>

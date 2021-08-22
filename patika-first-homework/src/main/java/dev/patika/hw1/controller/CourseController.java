@@ -1,7 +1,7 @@
-package dev.patika.hw2.controller;
+package dev.patika.hw1.controller;
 
-import dev.patika.hw2.model.Course;
-import dev.patika.hw2.service.CourseService;
+import dev.patika.hw1.model.Course;
+import dev.patika.hw1.service.CourseService;
 
 import java.util.List;
 
